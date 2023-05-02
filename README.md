@@ -4,7 +4,7 @@
 
 If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="" target="_blank">here</a>
 
-### About 🎧 (sem linguagem técnica)
+### About 🎧
 >Landing pages are a true portal to the world of creativity, and a great opportunity to capture users early in their browsing journey. Spark curiosity and explore the full potential of technology applied consciously, situationally, and well-planned to any product you wish to promote.
 
 >To exemplify this experience, I have chosen to present a headphone, in this case the "Apple Beats Studio3", but this entire structure can be reused for any other product, project, and even business. Great for professional websites, e-commerce, service promotion, companies, and the like. The sky is the limit and I can be a great companion to help you on this journey."
