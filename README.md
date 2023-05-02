@@ -2,7 +2,7 @@
 
 ![](/preview.png)
 
-If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="" target="_blank">here</a>
+<p align="center">If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="" target="_blank">here</a></p>
 
 <br>
 
@@ -12,7 +12,7 @@ If you would like to take a closer look at what I have developed, in a more imme
 >To exemplify this experience, I have chosen to present a headphone, in this case the "Apple Beats Studio3", but this entire structure can be reused for any other product, project, and even business. Great for professional websites, e-commerce, service promotion, companies, and the like. The sky is the limit and I can be a great companion to help you on this journey."
 
 ### Contact me
->Therefore, please get in touch with me at ti.chrystian@gmail.com, or let's connect on LinkedIn.
+>Therefore, please get in touch with me at ti.chrystian@gmail.com, or let's connect on <a target="_blank" href="https://www.linkedin.com/in/chrystian-calgaro/">LinkedIn</a>.
 
 >This project is part of my personal portfolio, so I would be pleased if you could provide me with any feedback on the project, code, structure, or any other aspect that could help me become a better developer!
 
@@ -32,7 +32,7 @@ If you would like to take a closer look at what I have developed, in a more imme
 🔖 Dark interface. <br>
 🔖 With animations when scrolling. <br>
 🔖 Highlighting the current section in the navigation bar. <br>
-🔖 Scroll Up button. <br>
+🔖 Scroll up button. <br>
 🔖 Developed first with the Mobile First methodology, then for desktop. <br>
 🔖 Compatible with all mobile devices and with a beautiful and pleasant user interface. <br>
 
