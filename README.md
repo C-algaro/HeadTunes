@@ -7,11 +7,12 @@
 <br>
 
 ### About 🎧
->Landing pages are a true portal to the world of creativity, and a great opportunity to capture users early in their browsing journey. Spark curiosity and explore the full potential of technology applied consciously, situationally, and well-planned to any product you wish to promote. <br><br>
-To exemplify this experience, I have chosen to present a headphone, in this case the "Apple Beats Studio3", but this entire structure can be reused for any other product, project, and even business. Great for professional websites, e-commerce, service promotion, companies, and the like. The sky is the limit and I can be a great companion to help you on this journey."
+>Landing pages are a true portal to the world of creativity, and a great opportunity to capture users early in their browsing journey. Spark curiosity and explore the full potential of technology applied consciously, situationally, and well-planned to any product you wish to promote. 
+
+>To exemplify this experience, I have chosen to present a headphone, in this case the "Apple Beats Studio3", but this entire structure can be reused for any other product, project, and even business. Great for professional websites, e-commerce, service promotion, companies, and the like. The sky is the limit and I can be a great companion to help you on this journey."
 
 ### Contact me
->Therefore, please get in touch with me at ti.chrystian@gmail.com, or let's connect on <a target="_blank" href="https://www.linkedin.com/in/chrystian-calgaro/">LinkedIn</a>. <br><br>
+>Therefore, please get in touch with me at ti.chrystian@gmail.com, or let's connect on <a target="_blank" href="https://www.linkedin.com/in/chrystian-calgaro/">LinkedIn</a>. <br>
 This project is part of my personal portfolio, so I would be pleased if you could provide me with any feedback on the project, code, structure, or any other aspect that could help me become a better developer!
 
 ### Inspiration
