@@ -46,3 +46,13 @@ If you would like to take a closer look at what I have developed, in a more imme
 
 ### Licence
 This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
+
+<footer align="center">
+  <br/>
+    <div>
+      <h1>Open Source</h1>
+      <sub>Copyright © 2023 - <a href="https://github.com/C-algaro">calgaro</sub></a>
+    </div>
+    <br/>
+    💖
+</footer>
