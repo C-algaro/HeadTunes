@@ -48,7 +48,7 @@ Combining all of these inspirations and references, I created this modern and im
 <br>
 
 ### License
-This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
+This project is licensed under the MIT License - please refer to the [LICENSE](https://github.com/C-algaro/HeadTunes/blob/main/LICENSE.md) file for details.
 
 <div align="center">
   <br/>
