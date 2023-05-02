@@ -52,7 +52,7 @@
 
 <br>
 
-### Licence
+### License
 This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
 
 <div align="center">
