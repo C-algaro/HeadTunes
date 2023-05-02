@@ -29,7 +29,7 @@
 ### installer -->
 
 ### Functionnalities
-🔖 Dark interface. <br>
+>🔖 Dark interface. <br>
 🔖 With animations when scrolling. <br>
 🔖 Highlighting the current section in the navigation bar. <br>
 🔖 Scroll up button. <br>
@@ -39,21 +39,21 @@
 <br>
 
 ### Techs 🌐
-- HTML: https://html.com/
-- CSS: https://www.w3schools.com/css/
-- JAVASCRIPT: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+>- HTML: https://html.com/
+>- CSS: https://www.w3schools.com/css/
+>- JAVASCRIPT: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ### Links 📚
-- Icons: https://remixicon.com/
-- Fonts: https://fonts.google.com/
-- ScrollReveal: https://scrollrevealjs.org/
-- HSL color: https://www.w3schools.com/colors/colors_hsl.asp
-- Model: https://www.youtube.com/c/Bedimcode
+>- Icons: https://remixicon.com/
+>- Fonts: https://fonts.google.com/
+>- ScrollReveal: https://scrollrevealjs.org/
+>- HSL color: https://www.w3schools.com/colors/colors_hsl.asp
+>- Model: https://www.youtube.com/c/Bedimcode
 
 <br>
 
 ### Licence
->This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
+This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
 
 <div align="center">
   <br/>
