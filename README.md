@@ -2,7 +2,7 @@
 
 ![](/preview.png)
 
-<p align="center">If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="" target="_blank">here</a></p>
+<p align="center">If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="https://c-algaro.github.io/HeadTunes/#" target="_blank">here</a></p>
 
 <br>
 
