@@ -28,7 +28,7 @@
 <!-- ### observation
 ### installer -->
 
-### Functionnalities
+### Functionalities
 >🔖 Dark interface. <br>
 🔖 With animations when scrolling. <br>
 🔖 Highlighting the current section in the navigation bar. <br>
