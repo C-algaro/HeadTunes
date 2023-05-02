@@ -4,6 +4,8 @@
 
 If you would like to take a closer look at what I have developed, in a more immersive way, click <a href="" target="_blank">here</a>
 
+<br>
+
 ### About 🎧
 >Landing pages are a true portal to the world of creativity, and a great opportunity to capture users early in their browsing journey. Spark curiosity and explore the full potential of technology applied consciously, situationally, and well-planned to any product you wish to promote.
 
@@ -21,38 +23,41 @@ If you would like to take a closer look at what I have developed, in a more imme
 
 >Combining all of these inspirations and references, I created this modern and impactful landing page that effectively conveys the essence of the product in a clear and efficient way.
 
+<br>
+
 <!-- ### observation
 ### installer -->
 
 ### Functionnalities
-- Dark interface.
-- With animations when scrolling.
-- Highlighting the current section in the navigation bar.
-- Scroll Up button.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+🔖 Dark interface. <br>
+🔖 With animations when scrolling. <br>
+🔖 Highlighting the current section in the navigation bar. <br>
+🔖 Scroll Up button. <br>
+🔖 Developed first with the Mobile First methodology, then for desktop. <br>
+🔖 Compatible with all mobile devices and with a beautiful and pleasant user interface. <br>
 
-### Techs
-- HTML
-- CSS 
-- JAVASCRIPT
+<br>
 
-### Links
+### Techs 🌐
+- HTML: https://html.com/
+- CSS: https://www.w3schools.com/css/
+- JAVASCRIPT: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+### Links 📚
 - Icons: https://remixicon.com/
 - Fonts: https://fonts.google.com/
 - ScrollReveal: https://scrollrevealjs.org/
 - HSL color: https://www.w3schools.com/colors/colors_hsl.asp
 - Model: https://www.youtube.com/c/Bedimcode
 
-### Licence
-This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
+<br>
 
-<footer align="center">
+### Licence
+>This project is licensed under the MIT License - please refer to the LICENSE.md file for details.
+
+<div align="center">
   <br/>
-    <div>
-      <h1>Open Source</h1>
       <sub>Copyright © 2023 - <a href="https://github.com/C-algaro">calgaro</sub></a>
-    </div>
     <br/>
     💖
-</footer>
+</div>
