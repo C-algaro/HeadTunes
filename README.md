@@ -54,5 +54,4 @@ This project is licensed under the MIT License - please refer to the [LICENSE](h
   <br/>
       <sub>Copyright © 2023 - <a href="https://github.com/C-algaro">calgaro</sub></a>
     <br/>
-    💖
 </div>
